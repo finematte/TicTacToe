@@ -1,4 +1,4 @@
-# Size
+# Dimensions
 WIDTH = 600
 HEIGHT = WIDTH
 LINE_WIDTH = 15
